@@ -1,0 +1,5 @@
+Mi nombre es Jose
+Mi Apellido es Rando
+Mi edad 46 Años
+Mi lenguaje es Python
+Aunque tambien me gusta JavaScript
